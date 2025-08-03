@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/fVrPQn0b/Datta.jpg">
 <h1 align="center">Hi 👋, I'm Mithun Datta</h1>
 <h3 align="center">Passionate Web Developer and Designer/Web Solutions</h3>
 
