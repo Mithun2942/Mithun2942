@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/fVrPQn0b/Datta.jpg">
+<img src="[https://i.ibb.co/fVrPQn0b/Datta.jpg](https://i.ibb.co/zhBL3KSh/Whats-App-Image-2025-08-04-at-01-08-37-0be6b4a5.jpg)">
 <h1 align="center">Hi 👋, I'm Mithun Datta</h1>
 <h3 align="center">Passionate Web Developer and Designer/Web Solutions</h3>
 
